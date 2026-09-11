@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" shape-rendering="crispEdges">
+  <!-- Sparring Wooden Blade -->
+  <!-- Blade -->
+  <line x1="44" y1="44" x2="58" y2="18" stroke="#92400e" stroke-width="4"/>
+  <line x1="45" y1="43" x2="57" y2="19" stroke="#b45309" stroke-width="2"/>
+  <rect x="57" y="16" width="3" height="3" fill="#b45309"/>
+  <!-- Crossguard -->
+  <rect x="42" y="42" width="7" height="3" fill="#78350f" transform="rotate(-30 45 43)"/>
+  <!-- Hilt & Pommel -->
+  <rect x="42" y="46" width="3" height="6" fill="#451a03"/>
+  <rect x="41" y="52" width="5" height="3" fill="#78350f"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" shape-rendering="crispEdges">
+  <!-- Crown of Persistence (Regal Gold with Ruby & Emerald Jewels) -->
+  <!-- Base Crown Band -->
+  <rect x="22" y="14" width="20" height="4" fill="#b45309"/>
+  <rect x="23" y="15" width="18" height="2" fill="#f59e0b"/>
+  <!-- Crown Points -->
+  <polygon points="22,14 24,8 26,14" fill="#fbbf24"/>
+  <polygon points="28,14 32,5 36,14" fill="#fef08a"/>
+  <polygon points="38,14 40,8 42,14" fill="#fbbf24"/>
+  <!-- Embedded Gems -->
+  <circle cx="32" cy="11" r="1.5" fill="#ef4444"/>
+  <circle cx="24" cy="12" r="1" fill="#10b981"/>
+  <circle cx="40" cy="12" r="1" fill="#10b981"/>
+  <circle cx="32" cy="16" r="1" fill="#3b82f6"/>
+</svg>

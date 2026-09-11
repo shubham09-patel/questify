@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" shape-rendering="crispEdges">
+  <!-- Male Character Base Body & Skin (Peach / Tan tone) -->
+  <!-- Head & Neck -->
+  <rect x="24" y="14" width="16" height="15" fill="#fcd3a1"/>
+  <rect x="23" y="16" width="18" height="11" fill="#fcd3a1"/>
+  <rect x="29" y="29" width="6" height="3" fill="#ebb883"/>
+
+  <!-- Torso Skin Base -->
+  <rect x="24" y="32" width="16" height="14" fill="#fcd3a1"/>
+  <rect x="26" y="33" width="12" height="11" fill="#ebb883"/>
+
+  <!-- Arms -->
+  <rect x="19" y="32" width="5" height="12" fill="#fcd3a1"/>
+  <rect x="18" y="44" width="5" height="5" fill="#ebb883"/>
+  <rect x="40" y="32" width="5" height="12" fill="#fcd3a1"/>
+  <rect x="41" y="44" width="5" height="5" fill="#ebb883"/>
+
+  <!-- Legs / Base Underwear -->
+  <rect x="24" y="46" width="7" height="10" fill="#334155"/>
+  <rect x="33" y="46" width="7" height="10" fill="#334155"/>
+  <rect x="24" y="56" width="6" height="4" fill="#ebb883"/>
+  <rect x="34" y="56" width="6" height="4" fill="#ebb883"/>
+</svg>

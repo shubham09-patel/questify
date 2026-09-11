@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" shape-rendering="crispEdges">
+  <!-- Obsidian Shadow Dagger -->
+  <!-- Dark Smoke Aura -->
+  <circle cx="53" cy="25" r="7" fill="#581c87" opacity="0.3"/>
+  <circle cx="56" cy="20" r="5" fill="#3b0764" opacity="0.4"/>
+  <!-- Obsidian Curved Blade -->
+  <polygon points="44,43 55,25 61,16 57,22 47,38" fill="#18181b"/>
+  <line x1="47" y1="38" x2="57" y2="22" stroke="#a855f7" stroke-width="2"/>
+  <!-- Guard -->
+  <rect x="42" y="42" width="6" height="3" fill="#4c1d95" transform="rotate(-35 45 43)"/>
+  <!-- Hilt -->
+  <line x1="43" y1="45" x2="39" y2="52" stroke="#2e1065" stroke-width="3"/>
+  <polygon points="38,51 40,54 37,55" fill="#a855f7"/>
+</svg>

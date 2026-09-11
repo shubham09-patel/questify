@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" shape-rendering="crispEdges">
+  <!-- Arcane Starlight Staff -->
+  <!-- Long Wood Shaft -->
+  <line x1="44" y1="58" x2="52" y2="12" stroke="#593214" stroke-width="3"/>
+  <line x1="45" y1="58" x2="53" y2="12" stroke="#78350f" stroke-width="1"/>
+  <!-- Ornate Golden Staff Head -->
+  <path d="M 48 16 Q 44 8 52 6 Q 60 8 56 16 Z" fill="#f59e0b"/>
+  <!-- Floating Glowing Crystal -->
+  <circle cx="52" cy="10" r="5" fill="#38bdf8" opacity="0.4"/>
+  <polygon points="52,5 55,10 52,15 49,10" fill="#0284c7"/>
+  <polygon points="52,7 54,10 52,13 50,10" fill="#e0f2fe"/>
+</svg>

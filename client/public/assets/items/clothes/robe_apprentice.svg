@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" shape-rendering="crispEdges">
+  <!-- Apprentice Spell Robes (Royal Blue with Silver Arcane trim) -->
+  <rect x="22" y="32" width="20" height="23" fill="#1e3a8a"/>
+  <rect x="24" y="34" width="16" height="20" fill="#2563eb"/>
+  <!-- Silver Rune Line down center -->
+  <rect x="31" y="34" width="2" height="21" fill="#93c5fd"/>
+  <!-- Wide Sleeves -->
+  <rect x="18" y="32" width="6" height="13" fill="#1e3a8a"/>
+  <rect x="40" y="32" width="6" height="13" fill="#1e3a8a"/>
+  <rect x="18" y="43" width="6" height="2" fill="#93c5fd"/>
+  <rect x="40" y="43" width="6" height="2" fill="#93c5fd"/>
+  <!-- Golden Belt Ribbon -->
+  <rect x="22" y="42" width="20" height="2" fill="#f59e0b"/>
+</svg>

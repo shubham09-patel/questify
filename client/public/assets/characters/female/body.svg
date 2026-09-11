@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" shape-rendering="crispEdges">
+  <!-- Female Character Base Body (Delicate silhouette, Peach skin) -->
+  <!-- Head & Neck -->
+  <rect x="25" y="14" width="14" height="14" fill="#fee2be"/>
+  <rect x="24" y="16" width="16" height="10" fill="#fee2be"/>
+  <rect x="30" y="28" width="4" height="3" fill="#f0c294"/>
+
+  <!-- Torso Skin Base -->
+  <rect x="25" y="31" width="14" height="14" fill="#fee2be"/>
+  <rect x="27" y="33" width="10" height="10" fill="#f0c294"/>
+
+  <!-- Arms -->
+  <rect x="20" y="31" width="4" height="12" fill="#fee2be"/>
+  <rect x="19" y="43" width="4" height="5" fill="#f0c294"/>
+  <rect x="40" y="31" width="4" height="12" fill="#fee2be"/>
+  <rect x="41" y="43" width="4" height="5" fill="#f0c294"/>
+
+  <!-- Legs / Base Underwear -->
+  <rect x="25" y="45" width="6" height="11" fill="#475569"/>
+  <rect x="33" y="45" width="6" height="11" fill="#475569"/>
+  <rect x="25" y="56" width="5" height="4" fill="#f0c294"/>
+  <rect x="34" y="56" width="5" height="4" fill="#f0c294"/>
+</svg>

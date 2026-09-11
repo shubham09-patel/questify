@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" shape-rendering="crispEdges">
+  <!-- Forged Iron Broadsword -->
+  <!-- Blade -->
+  <line x1="44" y1="44" x2="59" y2="15" stroke="#94a3b8" stroke-width="4"/>
+  <line x1="45" y1="43" x2="58" y2="16" stroke="#f1f5f9" stroke-width="2"/>
+  <polygon points="58,13 61,15 57,17" fill="#f1f5f9"/>
+  <!-- Gold Crossguard -->
+  <rect x="41" y="42" width="8" height="3" fill="#d97706" transform="rotate(-30 45 43)"/>
+  <rect x="42" y="41" width="2" height="2" fill="#facc15"/>
+  <!-- Leather Wrapped Hilt & Pommel -->
+  <line x1="43" y1="46" x2="39" y2="53" stroke="#475569" stroke-width="3"/>
+  <circle cx="39" cy="54" r="2.5" fill="#d97706"/>
+</svg>

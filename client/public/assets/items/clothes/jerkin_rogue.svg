@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" shape-rendering="crispEdges">
+  <!-- Shadowstalker Leather Jerkin (Charcoal & Silver Studs) -->
+  <rect x="23" y="32" width="18" height="15" fill="#1e293b"/>
+  <rect x="25" y="33" width="14" height="13" fill="#334155"/>
+  <!-- Silver Studs -->
+  <rect x="26" y="35" width="2" height="2" fill="#cbd5e1"/>
+  <rect x="36" y="35" width="2" height="2" fill="#cbd5e1"/>
+  <rect x="26" y="39" width="2" height="2" fill="#cbd5e1"/>
+  <rect x="36" y="39" width="2" height="2" fill="#cbd5e1"/>
+  <!-- Diagonal Stalker Strap -->
+  <line x1="24" y1="33" x2="40" y2="45" stroke="#0f172a" stroke-width="2"/>
+  <rect x="30" y="38" width="4" height="3" fill="#94a3b8"/>
+</svg>

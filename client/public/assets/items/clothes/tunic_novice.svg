@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" shape-rendering="crispEdges">
+  <!-- Novice Linen Tunic (Forest Green & Brown Belt) -->
+  <!-- Torso Tunic -->
+  <rect x="23" y="32" width="18" height="15" fill="#15803d"/>
+  <rect x="25" y="33" width="14" height="13" fill="#16a34a"/>
+  <!-- V-neck opening -->
+  <polygon points="30,32 34,32 32,37" fill="#ebb883"/>
+  <!-- Sleeves -->
+  <rect x="19" y="32" width="5" height="7" fill="#15803d"/>
+  <rect x="40" y="32" width="5" height="7" fill="#15803d"/>
+  <!-- Leather Belt & Buckle -->
+  <rect x="23" y="42" width="18" height="3" fill="#78350f"/>
+  <rect x="30" y="42" width="4" height="3" fill="#facc15"/>
+</svg>

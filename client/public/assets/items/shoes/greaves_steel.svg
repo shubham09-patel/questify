@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" shape-rendering="crispEdges">
+  <!-- Iron Vanguard Greaves (Steel plates with golden rim) -->
+  <!-- Left Greave -->
+  <rect x="23" y="52" width="7" height="9" fill="#475569"/>
+  <rect x="24" y="53" width="5" height="7" fill="#64748b"/>
+  <rect x="21" y="59" width="9" height="3" fill="#334155"/>
+  <rect x="23" y="52" width="7" height="2" fill="#f59e0b"/>
+
+  <!-- Right Greave -->
+  <rect x="34" y="52" width="7" height="9" fill="#475569"/>
+  <rect x="35" y="53" width="5" height="7" fill="#64748b"/>
+  <rect x="34" y="59" width="9" height="3" fill="#334155"/>
+  <rect x="34" y="52" width="7" height="2" fill="#f59e0b"/>
+</svg>

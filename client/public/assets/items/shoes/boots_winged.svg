@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" shape-rendering="crispEdges">
+  <!-- Hermes Winged Striders (Golden boots with radiant white wings) -->
+  <!-- Left Boot & Wing -->
+  <polygon points="18,52 23,54 22,58 16,56" fill="#f8fafc"/>
+  <polygon points="15,50 20,53 18,56 13,54" fill="#e2e8f0"/>
+  <rect x="23" y="54" width="7" height="7" fill="#d97706"/>
+  <rect x="21" y="59" width="9" height="3" fill="#fbbf24"/>
+
+  <!-- Right Boot & Wing -->
+  <polygon points="46,52 41,54 42,58 48,56" fill="#f8fafc"/>
+  <polygon points="49,50 44,53 46,56 51,54" fill="#e2e8f0"/>
+  <rect x="34" y="54" width="7" height="7" fill="#d97706"/>
+  <rect x="34" y="59" width="9" height="3" fill="#fbbf24"/>
+</svg>
